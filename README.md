@@ -1,6 +1,6 @@
 创建虚拟环境：
 1. [virtualenv ](https://dormousehole.readthedocs.io/en/latest/installation.html#install-create-env)
-- windows
+- windows www
 ```
 py -3 -m venv venv
 ```
